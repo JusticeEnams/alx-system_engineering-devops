@@ -1,0 +1,2 @@
+#!/bin/bash
+chmd 664 hello
