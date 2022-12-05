@@ -1,1 +1,1 @@
-New set of scripts on shell i/o redirections and filters
+print hello world script
